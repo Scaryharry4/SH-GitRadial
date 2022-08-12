@@ -10,4 +10,4 @@ Showcase
 
 ![image](https://user-images.githubusercontent.com/94418019/184441639-4de2dd6b-d7de-42ea-86a9-40088459addb.png)
 
-instialtion: you simply drag and drop the main.css file into qb-radialmenu/html/css and repalce the existing one
+installation: you simply drag and drop the main.css file into qb-radialmenu/html/css and repalce the existing one
